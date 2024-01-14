@@ -1,3 +1,8 @@
+# BNU Thesis Template
+address: https://github.com/kangchx/BNU-thesis-template .
+
+readme_zh [简体中文](readme_zh.md)
+
 ## Introduction
 This is a simplified LaTex template of BNU thesis without cover, using .bib / bibTex to manage references in GBT 7714 style. 
 
